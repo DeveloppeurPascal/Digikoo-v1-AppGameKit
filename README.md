@@ -4,7 +4,7 @@
 
 Source codes for the [Digikoo](https://digikoo.gamolf.fr) video game created in 2012 in AGK Basic in [App Game Kit](https://www.appgamekit.com) from [The Game Creators](https://www.thegamecreators.com).
 
-This project is open as an archive. The production version of Digikoo is now developed in Delphi and available on this code repository.
+This project is open as an archive. The production version of Digikoo is now developed in Delphi and available on [this code repository](https://github.com/DeveloppeurPascal/Digikoo-v2-Delphi).
 
 ## Talks and conferences
 
